@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #A83B59;"> ♡ Ami Manye! ♡ </h1>
+<h1 align="center" style="color: #A83B59;"> ♡ Samuella M. Aglago! ♡ </h1>
 
 <br>
 
