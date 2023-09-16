@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #A83B59;"> ♡ Samuella ♡ </h1>
+<h1 align="center" style="color: #A83B59;"> ♡ My profile ♡ </h1>
 
 <br>
 
