@@ -27,7 +27,7 @@
 - Email: **samuellamanyeaglago@gmail.com**
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglago&"  alt="aglago" /></p> 
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglago&"  alt="" /></p> 
 </div>
 
 ## Connect with me
