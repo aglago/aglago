@@ -18,6 +18,8 @@
 
 ## About me
 
+- **Flutter Mobile Developer & Frontend Web Developer**
+
 - **Software Engineering student** at <a href="https://www.alxafrica.com/">ALX Africa</a>
 
 - **Available and eager to volunteer for diverse tasks within my skill set.**
