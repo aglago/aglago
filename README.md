@@ -32,7 +32,7 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglago&"  alt="Github streak" /></p> 
 </div>
 
- [![Samuella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aglago&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/aglago/)
+ [![Samuella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aglago&bg_color=white&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/aglago/)
 
 ## Connect with me
 <p align="left">
