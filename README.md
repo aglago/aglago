@@ -32,6 +32,8 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglago&"  alt="Github streak" /></p> 
 </div>
 
+ [![Samuella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aglago&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/aglago/)
+
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/ami_aglago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ami_aglago" height="30" width="40" /></a>
