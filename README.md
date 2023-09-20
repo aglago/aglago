@@ -4,8 +4,6 @@
 
 <br>
 
-## About me
-
 - **Flutter Mobile Developer & Frontend Web Developer**
 
 - **Software Engineering student** at <a href="https://www.alxafrica.com/">ALX Africa</a>
@@ -111,8 +109,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true" alt="GitHub Stats" />
 </div>
 <br>
+
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglago&"  alt="Github streak" /></p> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aglago)](https://git.io/streak-stats)
 </div>
 <br><br>
 
