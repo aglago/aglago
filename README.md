@@ -4,15 +4,11 @@
 
 <br>
 
-- **Flutter Mobile Developer & Frontend Web Developer**
-
-- **Software Engineering student** at <a href="https://www.alxafrica.com/">ALX Africa</a>
-
-- **Available and eager to volunteer for diverse tasks within my skill set.**
-
-- **Seeking opportunities to collaborate on innovative projects and bring ideas to life**
-
-- Email: **samuellamanyeaglago@gmail.com**
+- Flutter Mobile Developer & Frontend Web Developer
+- Software Engineering student at <a href="https://www.alxafrica.com/">ALX Africa</a>
+- Available and eager to volunteer for diverse tasks within my skill set.
+- Seeking opportunities to collaborate on innovative projects and bring ideas to life
+- Email: *samuellamanyeaglago@gmail.com*
 
  [![Samuella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aglago&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/aglago/)
 
