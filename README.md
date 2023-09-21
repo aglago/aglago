@@ -84,14 +84,6 @@
       <br>Linux
       </td>
    </tr>
-
-   <!-- Row 2 -->
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-   </tr>
 </table>
 
 <br>
