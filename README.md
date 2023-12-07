@@ -4,8 +4,9 @@
 
 <br>
 
-- Flutter Mobile Developer & Frontend Web Developer
 - Software Engineering student at <a href="https://www.alxafrica.com/">ALX Africa</a>
+- Frontend Web Developer journeying to Fullstack, MERN
+- Futter in 2021 (Will get back to it but not soon)
 - Available and eager to volunteer for diverse tasks within my skill set.
 - Seeking opportunities to collaborate on innovative projects and bring ideas to life
 - Email: *samuellamanyeaglago@gmail.com*
