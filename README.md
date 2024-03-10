@@ -4,8 +4,9 @@
 
 <br>
 
-- Software Engineering student at <a href="https://www.alxafrica.com/">ALX Africa</a>
 - Frontend Web Developer journeying to Fullstack, MERN
+- Currently learning Nextjs
+- Languages and Frameworks I know: HTML, CSS, Javascript, Reactjs, C, Python
 - Futter in 2021 (Will get back to it but not soon)
 - Available and eager to volunteer for diverse tasks within my skill set.
 - Seeking opportunities to collaborate on innovative projects and bring ideas to life
