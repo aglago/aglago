@@ -125,8 +125,3 @@
       </td>
    </tr>
 </table>
-
-## References
-- [@hunterxcobby](https://github.com/hunterxcobby/hunterxcobby/blob/main/README.md)
-- [@ip681](https://github.com/ip681/ip681/blob/main/README.md)
-- [@boloto1979](https://github.com/boloto1979/boloto1979/blob/main/README.md)
