@@ -14,7 +14,12 @@
 - Seeking opportunities to collaborate on innovative projects and bring ideas to life
 - Email: *samuellamanyeaglago@gmail.com*
 
- [![Samuella's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aglago&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/aglago/)
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aglago)](https://git.io/streak-stats)
+</div>
 
 ## Languages and Tools
 <!-- Languages table -->
@@ -99,12 +104,6 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true" alt="GitHub Stats" />
-</div>
-<br>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aglago)](https://git.io/streak-stats)
 </div>
 <br><br>
 
