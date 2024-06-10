@@ -5,10 +5,10 @@
 <br>
 
 - Frontend Web Developer journeying to Fullstack, MERN
-- Currently learning Nextjs
+- Currently learning Node/Express
 - Programming Languages I know: Javascript, C, Python
 - Other languages I know: HTML, CSS
-- Framework and Libraries I know: Reactjs, Nextjs, Flutter
+- Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter
 - Futter in 2021 (Will get back to it but not soon)
 - Available and eager to volunteer for diverse tasks within my skill set.
 - Seeking opportunities to collaborate on innovative projects and bring ideas to life
