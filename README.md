@@ -9,7 +9,8 @@
 - Programming Languages I know: Javascript, C, Python
 - Other languages I know: HTML, CSS
 - Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter
-- Futter in 2021 (Will get back to it but not soon)
+- Futter in 2021 (I will get back to it but not soon)
+- Software engineering student at ALX Africa
 - Available and eager to volunteer for diverse tasks within my skill set.
 - Seeking opportunities to collaborate on innovative projects and bring ideas to life
 - Email: *samuellamanyeaglago@gmail.com*
