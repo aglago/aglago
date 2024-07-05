@@ -25,68 +25,70 @@
 ## Languages and Tools
 <!-- Languages table -->
 <table align="center">
-      <!-- Row 1 -->
+   <!-- Row 1 -->
    <tr>
+     <!-- Column 2 -->
+      <td align="center" width="90">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html" width="50" height="50"/>
+         <br>HTML
+      </td>
       <!-- Column 1 -->
       <td align="center" width="90">
          <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" alt="flutter" width="45" height="45"/>
          <br>Flutter
       </td>
-      <!-- Column 2 -->
+      <!-- Column 3 -->
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="icon" width="45" height="45" />
+        <br>C
+      </td>
+   </tr>
+   <!-- Row 2 -->
+   <tr>
+     <!-- Column 2 Data -->
+      <td align="center" width="90">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" border="0" width="50" height="50">
+         <br>CSS
+      </td>
+     <!-- Column 1 -->
       <td align="center" width="90">
          <a href="https://imgbb.com/"><img src="https://i.ibb.co/G3gwm9p/unnamed-removebg-preview.png" alt="unnamed-removebg-preview" border="0" width="55" height="55"></a>
          <br>Dart
       </td>
-      <!-- Column 3 -->
+     <!-- Column 2 -->
+      <td align="center" width="90">
+         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>Git
+      </td>
+   </tr>
+   <!-- Row 3 -->
+   <tr>
+     <!-- Column 3 -->
+     <!-- Column 3 -->
+      <td align="center" width="90">
+         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>Javascript
+      </td>
       <td align="center" width="90">
          <img src="https://app.flutterflow.io/icons/ff-icon-192.png" alt="html5" width="50" height="50"/>
          <br>Flutterflow
+      </td>
+     <!-- Column 3 -->
+      <td align="center" width="90">
+         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>Github
+      </td>
+   </tr>
+   <!-- Row 4-->
+  <!-- Column 4 -->
+      <td align="center" width="90">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
+         <br>Visual Studio Code
       </td>
       <!-- Column 4 -->
       <td align="center" width="90">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="50" height="50"/>
          <br>Android Studio
-      </td>
-   </tr>
-      <!-- Row 2 -->
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html" width="50" height="50"/>
-         <br>HTML
-      </td>
-      <!-- Column 2 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" border="0" width="50" height="50">
-         <br>CSS
-      </td>
-      <!-- Column 3 -->
-      <td align="center" width="90">
-         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-      <br>Javascript
-      </td>
-      <!-- Column 4 -->
-      <td align="center" width="90">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-         <br>Visual Studio Code
-      </td>
-   </tr>
-   <!-- Row 3 -->
-   <tr>
-      <!-- Column 1 -->
-      <td align="center" width="90">
-         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="icon" width="45" height="45" />
-      <br>C
-      </td>
-      <!-- Column 2 -->
-      <td align="center" width="90">
-         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>Git
-      </td>
-      <!-- Column 3 -->
-      <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>Github
       </td>
       <!-- Column 4 -->
       <td align="center" width="90">
