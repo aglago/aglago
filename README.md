@@ -23,8 +23,7 @@
 
 ## Languages and Tools
 <!-- Languages table -->
-<table align="center">
-   <!-- Row 1 -->
+<!--<table align="center">
    <tr>
      <!-- Column 2 -->
       <td align="center" width="90">
@@ -40,10 +39,7 @@
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="icon" width="45" height="45" />
         <br>C
-      </td>
-   </tr>
-   <!-- Row 2 -->
-   <tr>
+      </td> </tr>   <tr>
      <!-- Column 2 Data -->
       <td align="center" width="90">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" border="0" width="50" height="50">
@@ -58,10 +54,8 @@
       <td align="center" width="90">
          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="45" height="45" alt="PostgreSQL" />
       <br>Git
-      </td>
-   </tr>
-   <!-- Row 3 -->
-   <tr>
+      </td> </tr>
+   <!-- Row 3 --> <tr>
      <!-- Column 3 -->
      <!-- Column 3 -->
       <td align="center" width="90">
@@ -76,8 +70,7 @@
       <td align="center" width="90">
          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="PostgreSQL" />
       <br>Github
-      </td>
-   </tr>
+      </td></tr>
    <!-- Row 4-->
   <!-- Column 4 -->
       <td align="center" width="90">
@@ -93,9 +86,7 @@
       <td align="center" width="90">
          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" width="45" height="45" alt="Laravel" />
       <br>Linux
-      </td>
-   </tr>
-</table>
+      </td></tr></table>-->
 
 <br>
 <p align="center">
