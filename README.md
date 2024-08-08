@@ -10,7 +10,7 @@
 - Other languages I know: HTML, CSS
 - Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native
 - Software engineering student at ALX Africa
-- Best addition to your paid team! :)
+- Valuable addition to your paid team! :)
 - Currently looking for a paid remote part-time software engineering internship role, refer me :)
 - Email: *samuellamanyeaglago@gmail.com*
 
