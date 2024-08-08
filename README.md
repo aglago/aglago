@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;Journeying+to+full+stack;Neuroscience+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Software+Engineer;MERN stack;Neuroscience+Enthusiast" alt="Headline" />
 </div>
 
 <br>
 
-- Frontend Web Developer journeying to Fullstack, MERN
-- Currently learning Node/Express
-- Programming Languages I know: Javascript, C, Python
+- Fullstack Software Engineer
+- Currently building my first full-stack application
+- Programming Languages I know: TypeScript(Javascript), C, Python
 - Other languages I know: HTML, CSS
-- Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter
-- Futter in 2021 (I will get back to it but not soon)
+- Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native
 - Software engineering student at ALX Africa
-- Available and eager to volunteer for diverse tasks within my skill set.
-- Seeking opportunities to collaborate on innovative projects and bring ideas to life
+- Best addition to your paid team! :)
+- Currently looking for a paid remote part-time software engineering internship role, refer me :)
 - Email: *samuellamanyeaglago@gmail.com*
 
 <br>
