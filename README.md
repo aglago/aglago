@@ -21,16 +21,17 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=aglago)](https://git.io/streak-stats)
 </div>
 
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglago&show_icons=true&locale=en&layout=compact" alt="aglago" />
-</p>
-
 <br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true" alt="GitHub Stats" />
 </div>
-<br><br>
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglago&show_icons=true&locale=en&layout=compact" alt="aglago" />
+</p>
+
+<br>
 
 <h2 align="center"> Connect with me </h2>
 <table align="center">
