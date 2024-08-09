@@ -16,6 +16,12 @@
 
 <br>
 
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglago&show_icons=true&locale=en&layout=compact" alt="aglago" />
+</p>
+
+<br>
+
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=aglago)](https://git.io/streak-stats)
@@ -26,10 +32,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true" alt="GitHub Stats" />
 </div>
-
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aglago&show_icons=true&locale=en&layout=compact" alt="aglago" />
-</p>
 
 <br>
 
