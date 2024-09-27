@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Software+Engineer;Neuroscience+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Softwar+Developer;Neuroscience+Enthusiast" alt="Headline" />
 </div>
 
 <br>
 
-- Fullstack Software Engineer
-- Currently building my first full-stack application
+- Fullstack Software Developer
+- Currently building Atrady
 - Programming Languages I know: TypeScript(Javascript), C, Python
 - Other languages I know: HTML, CSS
-- Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native
+- Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native, Nextjs
 - Software engineering student at ALX Africa
 - Valuable addition to your paid team! :)
-- Currently looking for a paid remote part-time software engineering internship role, refer me :)
+- Currently looking for a paid remote part-time software developer internship role, refer me :)
 - Email: *samuellamanyeaglago@gmail.com*
 
 <br>
