@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Softwar+Developer;Neuroscience+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=139ae1&size=32&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Software+Developer;Neuroscience+Enthusiast" alt="Headline" />
 </div>
 
 <br>
 
 - Fullstack Software Developer
-- Currently building Atrady
+- Currently building [XO](https://xotoys.vercel.app)
 - Programming Languages I know: TypeScript(Javascript), C, Python
 - Other languages I know: HTML, CSS
 - Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native, Nextjs
