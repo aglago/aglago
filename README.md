@@ -4,7 +4,7 @@
 
 <br>
 
-- Fullstack Software Developer
+- Fullstack Software Developer (Nextjs, TypeScript, MERN)
 - Currently building [XO](https://xotoys.vercel.app)
 - Programming Languages I know: TypeScript(Javascript), C, Python
 - Other languages I know: HTML, CSS
