@@ -9,7 +9,6 @@
 - Programming Languages I know: TypeScript(Javascript), C, Python
 - Other languages I know: HTML, CSS
 - Framework and Libraries I know: Reactjs, Nodejs, Expressjs, Flutter, React Native, Nextjs
-- Software engineering student at ALX Africa
 - Valuable addition to your paid team! :)
 - Currently looking for a paid remote part-time software developer internship role, refer me :)
 - Email: *samuellamanyeaglago@gmail.com*
