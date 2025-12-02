@@ -4,17 +4,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=react)](https://www.samuella.site)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:samuellamanyeaglago@gmail.com)
 
-## Full Stack Web Developer | Final Year CS Student
+## Junior Software Engineer
 
-I build responsive, user-friendly web applications with modern JavaScript frameworks. Currently completing my Computer Science & Engineering degree while working on exciting web development projects.
+I build responsive, user-friendly web applications with modern JavaScript frameworks. Currently working as a TLC Trainee at Turntabl.
 
 ```javascript
 const samuella = {
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  code: ['TypeScript', 'Java', 'JavaScript', 'C++', 'Kotlin', 'HTML', 'CSS'],
   technologies: {
-    frontend: ['React', 'Next.js', 'Tailwind CSS'],
-    backend: ['Node.js', 'Express', 'MongoDB'],
-    tools: ['Git', 'GitHub', 'VS Code', 'Postman']
+    frontend: ['ReactJS', 'Next.js', 'Tailwind CSS'],
+    backend: ['Java', 'Node.js', 'Express', 'MongoDB'],
+    database: ['SQL', 'Postgresql', 'MongoDB'],
+    tools: ['Git', 'GitHub', 'Gitlab', 'VS Code', 'IntelliJ', 'Postman']
   },
   currentFocus: 'Building projects that solve real problems',
   funFact: 'I can debug CSS with my eyes closed! (Almost.)'
